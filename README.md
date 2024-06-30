@@ -1,5 +1,5 @@
 # SSPNet: Scale and Spatial Priors Guided Generalizable and Interpretable Pedestrian Attribute Recognition
-This is the PyTorch implementation of the SSPNet. This repository supports the AFSS and PLE modules, and quantitative analysis (IoU) of weakly supervised attribute localization.
+This is the PyTorch implementation of the SSPNet.
 ![overview](docs/overview.png)
 ## Dataset Info
 - PA100K [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_HydraPlus-Net_Attentive_Deep_ICCV_2017_paper.pdf)][[Github](https://github.com/xh-liu/HydraPlus-Net)]
