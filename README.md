@@ -1,6 +1,6 @@
 # SSPNet: Scale and Spatial Priors Guided Generalizable and Interpretable Pedestrian Attribute Recognition
 ## Introduction
-In this paper, we propose a SSPNet to learn generalizable and interpretable PAR model, which mainly comprise of AFSS and PLE modules based on the multi-label classification framework. The AFSS module can select feature map with proper scales for attributes of various granularity, while the PLE module aims to incorporate the spatial prior knowledge of attributes into the model learning process. From another perspective, AFSS identifies the most suitable scale of feature map, while PLE utilizes spatial priors to find the appropriate location of attribute in the feature map
+In this paper, we propose a SSPNet to learn generalizable and interpretable PAR model, which mainly comprise of AFSS and PLE modules based on the multi-label classification framework. The AFSS module can select feature map with proper scales for attributes of various granularity, while the PLE module aims to incorporate the spatial prior knowledge of attributes into the model learning process. From another perspective, AFSS identifies the most suitable scale of feature map, while PLE utilizes spatial priors to find the appropriate location of attribute in the feature map.
 ## Overview
 ![overview](docs/overview.png)
 ## Dataset Info
